@@ -1,0 +1,45 @@
+id,is_return,is_sharpe,is_pf,is_trades,desc
+S2.08_L_aggr_F3#g21,50.66075806967442,1.7177979948731348,1.7652237355557983,163,max_hold=21; adx_threshold=25; vortex_period=14
+S2.08_L_aggr_F3#g36,50.66075806967442,1.7177979948731348,1.7652237355557983,163,max_hold=21; trail_mult=2.0; adx_threshold=25; vortex_period=14
+S2.08_L_aggr_F3#g20,46.82657677571533,1.6645026536311573,1.711411229526076,163,adx_threshold=25; vortex_period=14
+S2.08_L_aggr_F3#g37,43.60451332044167,1.7857624101261604,1.94489639025795,112,max_hold=21; trail_mult=2.0; adx_threshold=25; btc_filter=btc_5d_pos; vortex_period=14
+S2.08_L_aggr_F3#g22,40.398491005709026,1.1357509325297896,1.622060860650673,150,adx_threshold=25; vortex_period=14
+S2.08_L_aggr_F3#g23,38.405831936618725,0.9866875899251545,1.5408436765081452,146,max_hold=21; adx_threshold=25; vortex_period=14
+S2.08_L_aggr_F3#g17,37.81083347360787,1.6398201462400166,1.862879106699955,92,max_hold=21; adx_threshold=20; vortex_period=14
+S2.08_L_aggr_F3#g18,37.19256419263492,1.3652776384744887,1.7919951938284264,87,adx_threshold=20; vortex_period=14
+S2.08_L_aggr_F3#g16,37.158317398091675,1.7351702738711217,1.8987649762610415,92,adx_threshold=20; vortex_period=14
+S2.08_L_aggr_F3#g38,34.60688777363311,1.3157885560062486,1.5670194827216917,169,max_hold=21; trailing=atr_simple; trail_mult=2.0; adx_threshold=25; vortex_period=14
+S2.08_L_aggr_F3#g40,34.22414294108161,0.7718665826149769,1.4831657702103735,151,max_hold=21; trail_mult=2.0; adx_threshold=25; vortex_period=14
+S2.08_L_aggr_F3#g41,30.238941713980964,0.8188993140711418,1.535291774594822,111,max_hold=21; trail_mult=2.0; adx_threshold=25; btc_filter=btc_5d_pos; vortex_period=14
+S2.08_L_aggr_F3#g39,29.43155868547059,1.3418370417660652,1.7128051339477484,115,max_hold=21; trailing=atr_simple; trail_mult=2.0; adx_threshold=25; btc_filter=btc_5d_pos; vortex_period=14
+S2.08_L_aggr_F3#g19,29.25906061051087,0.9994955735099715,1.549631354088422,84,max_hold=21; adx_threshold=20; vortex_period=14
+S2.08_L_aggr_F3#g35,21.76134711721741,0.5747192591758189,1.4170960707042055,136,max_hold=21; adx_threshold=25; vortex_period=18
+S2.08_L_aggr_F3#g43,18.26055238932631,0.6001219016045742,1.427660132349307,115,max_hold=21; trailing=atr_simple; trail_mult=2.0; adx_threshold=25; btc_filter=btc_5d_pos; vortex_period=14
+S2.08_L_aggr_F3#g33,17.963137260909797,0.5302532863334258,1.3579434869666807,157,max_hold=21; adx_threshold=25; vortex_period=18
+S2.08_L_aggr_F3#g4,15.140184502940826,0.7723118875686742,1.375383854501345,111,adx_threshold=20; vortex_period=10
+S2.08_L_aggr_F3#g5,14.79983336961789,0.714485145679691,1.3498959318205228,109,max_hold=21; adx_threshold=20; vortex_period=10
+S2.08_L_aggr_F3#g11,14.257019195610976,0.3367093848214269,1.1935381755801722,151,max_hold=21; adx_threshold=25; vortex_period=10
+S2.08_L_aggr_F3#g42,13.806305923216268,0.3208966554189796,1.2095863488943794,162,max_hold=21; trailing=atr_simple; trail_mult=2.0; adx_threshold=25; vortex_period=14
+S2.08_L_aggr_F3#g10,12.798008452439694,0.3501177772173809,1.2206696614129147,159,adx_threshold=25; vortex_period=10
+S2.08_L_aggr_F3#g29,9.752351965847238,0.3997520321177472,1.252990250052965,101,max_hold=21; adx_threshold=20; vortex_period=18
+S2.08_L_aggr_F3#g32,9.292971390482661,0.2486551574611342,1.2034650103003057,158,adx_threshold=25; vortex_period=18
+S2.08_L_aggr_F3#g34,8.844162276178263,0.27546936424708285,1.1911639373535807,144,adx_threshold=25; vortex_period=18
+S2.08_L_aggr_F3#g6,8.179195103012194,0.22902304818603708,1.211357424016778,99,adx_threshold=20; vortex_period=10
+S2.08_L_aggr_F3#g28,5.947347492099828,0.25654107076272875,1.1731315331081655,103,adx_threshold=20; vortex_period=18
+S2.08_L_aggr_F3#g7,4.648252227850573,0.1355220249417648,1.1083034555389228,94,max_hold=21; adx_threshold=20; vortex_period=10
+S2.08_L_aggr_F3#g31,1.5315908872723343,0.04337414932381556,1.1784860537662694,87,max_hold=21; adx_threshold=20; vortex_period=18
+S2.08_L_aggr_F3#g9,1.3530084434490104,-0.03676096950919838,1.0406602401572371,182,max_hold=21; adx_threshold=25; vortex_period=10
+S2.08_L_aggr_F3#g30,1.0525255773140625,0.11137923811902284,1.2882283099888685,92,adx_threshold=20; vortex_period=18
+S2.08_L_aggr_F3#g8,-1.0392421711285518,-0.09547292892449916,1.0244487423285187,183,adx_threshold=25; vortex_period=10
+S2.08_L_aggr_F3#g0,,,,0,adx_threshold=15; vortex_period=10
+S2.08_L_aggr_F3#g1,,,,0,max_hold=21; adx_threshold=15; vortex_period=10
+S2.08_L_aggr_F3#g2,,,,0,adx_threshold=15; vortex_period=10
+S2.08_L_aggr_F3#g3,,,,0,max_hold=21; adx_threshold=15; vortex_period=10
+S2.08_L_aggr_F3#g12,,,,0,adx_threshold=15; vortex_period=14
+S2.08_L_aggr_F3#g13,,,,0,max_hold=21; adx_threshold=15; vortex_period=14
+S2.08_L_aggr_F3#g14,,,,0,adx_threshold=15; vortex_period=14
+S2.08_L_aggr_F3#g15,,,,0,max_hold=21; adx_threshold=15; vortex_period=14
+S2.08_L_aggr_F3#g24,,,,0,adx_threshold=15; vortex_period=18
+S2.08_L_aggr_F3#g25,,,,0,max_hold=21; adx_threshold=15; vortex_period=18
+S2.08_L_aggr_F3#g26,,,,0,adx_threshold=15; vortex_period=18
+S2.08_L_aggr_F3#g27,,,,0,max_hold=21; adx_threshold=15; vortex_period=18

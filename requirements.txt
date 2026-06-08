@@ -1,0 +1,11 @@
+# Crypto Crash Detector — dependencies
+# NOTE: indicators are implemented directly (vectorized numpy/pandas) rather than
+# via pandas_ta, because pandas_ta 0.3.x is incompatible with numpy>=2.0
+# (it imports the removed `numpy.NaN`). No TA library is required to run this.
+pandas>=2.0
+numpy>=1.24
+plotly>=5.15
+scipy>=1.10
+scikit-learn>=1.3
+ccxt>=4.0
+tqdm>=4.65
